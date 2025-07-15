@@ -6,11 +6,12 @@ import java.time.LocalDate;
 
 @Getter
 @Setter
+@ToString
 @NoArgsConstructor
 @AllArgsConstructor
 public class WeatherInfo {
     private String city;
     private LocalDate date;
-    private int temperature;
+    private Double temperature;
     private String condition;
 } 

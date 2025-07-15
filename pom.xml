@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.vay</groupId>
 	<artifactId>h1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>h1</name>
 	<description>h1</description>
 	<url/>
